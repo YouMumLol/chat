@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "basic chat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YouMumLol/chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YouMumLol/chat/issues"
+  },
+  "homepage": "https://github.com/YouMumLol/chat#readme",
+  "dependencies": {
+    "server": "^1.0.38"
+  }
+}

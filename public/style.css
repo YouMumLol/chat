@@ -14,7 +14,7 @@
   }
   
   main {
-    width: 85%;
+    width: 90%;
     margin: 0 auto;
     font-family: Helvetica, Arial, Sans, sans-serif;
   }
@@ -72,9 +72,9 @@
 
 .sidebar {
   display: block;
-  width: 15%;
+  width: 10%;
   float: left;
-  background: rgb(20, 20, 20);
+  background: rgb(40, 40, 40);
   padding: 20px;
   height: 100%;
 }
